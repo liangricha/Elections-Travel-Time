@@ -1,6 +1,13 @@
 <?php
 
-$address_file = file_get_contents('addresses.data');
+
+$args = getopt('f:')
+if ($args == FALSE || !isset(args['f']) || args['f'] == FALSE) {
+  echo 'Need to specify address file using -f argument\n'
+}
+
+$file_name = args['f'];
+$address_file = file_get_contents($file_name);
 $addresses = preg_split('/$\R?^/m', $address_file);
 
 date_default_timezone_set('America/New_York');
@@ -44,8 +51,6 @@ foreach ($addresses as $address) {
     array_push($travel_info, $info_for_address);
     // We are limited to 2 requests per second, so we halt for half a second before sending another request.
     sleep(0.5);
-
-    break;
 }
 
-file_put_contents('travelInfo.data', implode('\n', $travel_info));
+file_put_contents($file_name . '.out', implode('\n', $travel_info));
