@@ -48,7 +48,7 @@ foreach ($addresses as $address) {
     //$full_dest_address = $directions->routes[0]->legs[0]->end_address;
     //$travel_time_in_minutes = intval($directions->routes[0]->legs[0]->duration->value) / 60;
 
-    $info_for_address = $full_dest_address . ' : ' . $travel_time_in_minutes . ' mins';
+    //$info_for_address = $full_dest_address . ' : ' . $travel_time_in_minutes . ' mins';
     array_push($travel_info, $response);
     // We are limited to 2 requests per second, so we halt for half a second before sending another request.
     sleep(0.5);
@@ -57,4 +57,4 @@ foreach ($addresses as $address) {
 }
 
 $output_file_name = $file_name . '.out';
-file_put_contents($output_file_name, implode("*****************\n", $travel_info));
+file_put_contents($output_file_name, implode("******************\n", $travel_info));
