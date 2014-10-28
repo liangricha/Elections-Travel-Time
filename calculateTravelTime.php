@@ -44,13 +44,14 @@ foreach ($addresses as $address) {
     curl_close($curl);
 
     $directions = json_decode($response);
-    $full_dest_address = $directions->routes[0]->legs[0]->end_address;
-    $travel_time_in_minutes = intval($directions->routes[0]->legs[0]->duration->value) / 60;
+    //$full_dest_address = $directions->routes[0]->legs[0]->end_address;
+    //$travel_time_in_minutes = intval($directions->routes[0]->legs[0]->duration->value) / 60;
 
     $info_for_address = $full_dest_address . ' : ' . $travel_time_in_minutes . ' mins';
-    array_push($travel_info, $info_for_address);
+    array_push($travel_info, $directions);
     // We are limited to 2 requests per second, so we halt for half a second before sending another request.
     sleep(0.5);
+    break;
 }
 
-file_put_contents($file_name . '.out', implode('\n', $travel_info));
+file_put_contents($file_name . '.out', implode('\n*****************\n', $travel_info));
