@@ -1,12 +1,12 @@
 <?php
 
-
-$args = getopt('f:')
-if ($args == FALSE || !isset(args['f']) || args['f'] == FALSE) {
-  echo 'Need to specify address file using -f argument\n'
+$args = getopt('f:');
+if ($args == FALSE || !isset($args['f']) || $args['f'] == FALSE) {
+    echo "Need to specify address file using -f argument.\n";
+    return;
 }
 
-$file_name = args['f'];
+$file_name = $args['f'];
 $address_file = file_get_contents($file_name);
 $addresses = preg_split('/$\R?^/m', $address_file);
 
@@ -16,6 +16,7 @@ $unix_timestamp = mktime(9, 0, 0, 11, 4, 2014);
 
 $travel_info = array();
 
+$count = 0;
 // API Params.
 foreach ($addresses as $address) {
     $params = array(
@@ -48,10 +49,12 @@ foreach ($addresses as $address) {
     //$travel_time_in_minutes = intval($directions->routes[0]->legs[0]->duration->value) / 60;
 
     $info_for_address = $full_dest_address . ' : ' . $travel_time_in_minutes . ' mins';
-    array_push($travel_info, $directions);
+    array_push($travel_info, $response);
     // We are limited to 2 requests per second, so we halt for half a second before sending another request.
     sleep(0.5);
-    break;
+    if ($count == 2) break;
+    $count++;
 }
 
-file_put_contents($file_name . '.out', implode('\n*****************\n', $travel_info));
+$output_file_name = $file_name . '.out';
+file_put_contents($output_file_name, implode("*****************\n", $travel_info));
