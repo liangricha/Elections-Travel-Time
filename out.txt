@@ -1,0 +1,2078 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.0831051,
+               "lng" : -74.97468599999999
+            },
+            "southwest" : {
+               "lat" : 39.9022092,
+               "lng" : -75.3535674
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "11:08am",
+                  "time_zone" : "America/New_York",
+                  "value" : 1415117331
+               },
+               "departure_time" : {
+                  "text" : "9:00am",
+                  "time_zone" : "America/New_York",
+                  "value" : 1415109622
+               },
+               "distance" : {
+                  "text" : "28.7 mi",
+                  "value" : 46117
+               },
+               "duration" : {
+                  "text" : "2 hours 8 mins",
+                  "value" : 7709
+               },
+               "end_address" : "11080 Knights Road, Philadelphia, PA 19154, USA",
+               "end_location" : {
+                  "lat" : 40.0827646,
+                  "lng" : -74.975101
+               },
+               "start_address" : "500 College Avenue, Swarthmore, PA 19081, USA",
+               "start_location" : {
+                  "lat" : 39.9053772,
+                  "lng" : -75.353431
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 446
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 337
+                     },
+                     "end_location" : {
+                        "lat" : 39.9022222,
+                        "lng" : -75.35083329999999
+                     },
+                     "html_instructions" : "Walk to Swarthmore",
+                     "polyline" : {
+                        "points" : "s_qrF|m|jM?@L?HCLADAHBB?PHJBL@JAHAJAD?F?JDHL|A}A~@u@xAsA|@w@j@e@NOlAoAHI@C@C?C?E?GGg@Dq@"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9053772,
+                        "lng" : -75.353431
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "331 ft",
+                              "value" : 101
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 66
+                           },
+                           "end_location" : {
+                              "lat" : 39.9045226,
+                              "lng" : -75.3535674
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "s_qrF|m|jM?@L?HCLADAHBB?PHJBL@JAHAJAD?F?JDHL"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9053772,
+                              "lng" : -75.353431
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.2 mi",
+                              "value" : 308
+                           },
+                           "duration" : {
+                              "text" : "4 mins",
+                              "value" : 224
+                           },
+                           "end_location" : {
+                              "lat" : 39.9022807,
+                              "lng" : -75.3514576
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "gzprFxn|jM|A}A~@u@xAsA|@w@j@e@NOlAoA"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9045226,
+                              "lng" : -75.3535674
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "121 ft",
+                              "value" : 37
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 47
+                           },
+                           "end_location" : {
+                              "lat" : 39.9022222,
+                              "lng" : -75.35083329999999
+                           },
+                           "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "maneuver" : "turn-slight-left",
+                           "polyline" : {
+                              "points" : "glprFra|jMHI@C@C?C?E?GGg@Dq@"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9022807,
+                              "lng" : -75.3514576
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "10.4 mi",
+                        "value" : 16747
+                     },
+                     "duration" : {
+                        "text" : "28 mins",
+                        "value" : 1680
+                     },
+                     "end_location" : {
+                        "lat" : 39.95666670000001,
+                        "lng" : -75.18166669999999
+                     },
+                     "html_instructions" : "Train towards Center City Philadelphia",
+                     "polyline" : {
+                        "points" : "{kprFt}{jMQFCUEUE]EUIk@AEM{@Gg@Oy@{D_V{@eF}ByNACoCoPu@_FcBoKgAqGE]}DiVAESkAiAeHGBMw@_@eCWyAESEUCSy@eFy@sEo@iEG[c@_CeAaFyAmFaA}CoAgDuAiD_AuBq@cB]u@oAgDkAiCm@yAkAqCs@kB_AwBy@mBo@{Aq@eB[{@]w@aAoBAGg@oAg@oAYs@iAkC}@_C}@mBa@eA_@aAeAaCeAiCq@yAu@mBqA}Ci@iAk@uA{CuHsC{GiAsCo@{Ak@uA?ADCoFyMwCmGiFqJqCcEoBsCW[Wa@GK}@kAe@m@cCiDoCiEoEwGq@gA{FcI{DiG_@m@EGU]wB{CSYCDQWsAkBaAwAsAsBgAeBgAcBgA}AiAcBw@uAu@aBc@mA[iA[oA_@kB[_D_@sEk@gGYqD_@kECYa@kEGcAACIqAi@iG]cEWcDGk@Gy@IaAc@eFa@eFUkCOgBOeBQsBOmBWyCM}Ac@{Ee@_GIs@?Im@_HW{Cg@_G[_EUeCg@gG}@iK]wDAIUmBQ{@y@}Co@aBiAgCoBqECCmC}F}A{D}AiEeAiDiBsH_@uBe@mC]aC_@_DIs@Gw@Gu@?CKiAI{AIeBGcC?sC?{@DgCDiAVoEVmCV{Bb@cDt@}Ej@eE`AmHr@eFn@mEf@sDFc@NoA^qCz@iGbAqH~@aHz@eGT{BL_BB}@@{@@aAAcACeBCu@AYIuASmBa@iCWkAQs@c@{Au@uBgBmF_@kAUw@a@aBc@yB]}BM}@Gq@Gu@KuAGeBEyB?OAu@CsACkB?IAm@Cm@?IC_BKgCKwAKcAMkAMeA_@wBg@{Bi@qBeAkDWy@s@mB[q@iAoBy@iAgAuA_@c@wCcD_AaAcA{@s@e@_A]qA]{AUaAMsAQoC_@UCg@G}AQkCWaEk@sEk@i@W_@i@c@}@Wm@]qAGo@Ey@C}@@{@@e@Dk@F{@VqEP}BJ}AQC"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9022222,
+                        "lng" : -75.35083329999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 39.95666670000001,
+                              "lng" : -75.18166669999999
+                           },
+                           "name" : "30th Street Station"
+                        },
+                        "arrival_time" : {
+                           "text" : "9:34am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415111640
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 39.9022222,
+                              "lng" : -75.35083329999999
+                           },
+                           "name" : "Swarthmore"
+                        },
+                        "departure_time" : {
+                           "text" : "9:06am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415109960
+                        },
+                        "headsign" : "Center City Philadelphia",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "color" : "#007cc8",
+                           "name" : "Media/Elwyn Line",
+                           "text_color" : "#ffffff",
+                           "url" : "http://www.septa.org/schedules/rail/index.html",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/rail.png",
+                              "name" : "Train",
+                              "type" : "HEAVY_RAIL"
+                           }
+                        },
+                        "num_stops" : 9
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "14.8 mi",
+                        "value" : 23789
+                     },
+                     "duration" : {
+                        "text" : "24 mins",
+                        "value" : 1440
+                     },
+                     "end_location" : {
+                        "lat" : 40.0544444,
+                        "lng" : -74.9844444
+                     },
+                     "html_instructions" : "Train towards Trenton",
+                     "polyline" : {
+                        "points" : "e`{rFl|ziMEAGt@Eh@WjDOjBMfBAHEd@Kb@M`@Qd@OVKNU\\]XKHOJSJc@NYFSByAPgBTcBVq@FcC\\{BTmAFiBB{BDU@}@Di@Du@Ng@NKDWJm@Xe@XkAz@UR_@^WTg@l@i@p@SXKPOVWb@i@lAWh@Yr@Wl@Kh@Qn@Or@Mx@SzAS|A]pC_@lCQdA[pAO^Sh@wA|CwA|CkA`C_@v@Yj@[h@s@~@o@r@m@f@c@Ti@V}@RsARcAJW@q@Ao@Kg@Oc@QUMi@Wi@c@_@Uo@o@}AoB{@gAMS]g@U]W_@q@iAoAoBU]]g@]i@U]S[q@kAm@cA]u@]u@IWKSc@w@g@{@GKEGUUEGGKQ_@s@uAa@q@_@k@q@wACIi@kA}@eBiAkB_GaK{@wAoBiDm@eAoAuBUc@oAuBq@iAs@mAu@mAoA{Ba@q@g@}@oBeDi@_AaCcEw@uA{@{AYi@[s@oAyCOa@eAgCiFmMQa@Qa@uDmJc@cAYw@yAqD{AqDUk@Sk@qB_F_C}Fm@}As@cBmA{Cs@eBq@cBo@gBi@cBa@yAUy@[mA]mA[kAMg@mBaH]oA_@mAwBgICGQo@Qq@gB{GwAiFK_@Ia@}@cDoBkH_@iAs@_CKa@K_@CMc@aBSu@Uw@_AqDIWGW_@qAOi@Sw@YgAc@}A_@sAU}@CKSq@i@sBSq@Mg@Mg@y@wCU}@K[I[Qq@a@_Bq@kCcAkDGSEQ{AyFs@mCeAwDg@kB{@{Cs@yCUmAOcAOkAI_AIeAGeBE_DA_@BcIBgEJwH^{LP{DBe@Bg@bAqPf@oHXcEhAqQTwC\\kFZoEJwAh@mIHmAB_@Ba@JyAb@wGh@uH@_@B]B]LqBNqBZyEF{@F_AF}@FgAh@kHL_C@MDk@Dk@RwCl@gJB_@B_@Bu@DcABgA?oACi@Aa@Eq@Gs@G_@Gi@UmAOs@Y_A_@_AWo@MUg@{@S]m@w@iBwBe@k@MKg@k@W[o@s@W_@QOKKOMgAsAAAi@u@gAgBwAgCkAoCOa@IUIUy@kCW_AMe@Os@GWMm@SgAQiAi@eDQgAQgACQm@uD_@gCeA_He@uCQgAGc@Ga@M_A{@iFCSGa@Gc@YaBq@aE{@mFq@oECOM{@G_@o@cEGa@O}@O}@MaAIe@?CEUCSG]E]Ig@Mu@E]M{@]oBW_BOkAUsAa@kCQiAY_BYkBOaASuAO_AUyAQkAYmB[gBMw@Q_AMs@Km@WmAMm@Os@CIG]I_@?AYeAS{@]oAWaAs@kC[gA[aA?Aa@qA[aAi@yAk@{Ae@mAa@_A{@aC}@uB]{@i@uAWm@Yu@e@gAiAuCWq@u@kB{@yBCE[w@e@mAk@}Ac@cAo@{Ae@mAy@oBO_@KWKYK[Yu@CIWk@i@uAIQQc@Wo@Sg@Se@Uo@_@}@iAmCqA}C}@qB_@{@CCO]O[KUgA_CCGQ]Q]Q]a@w@CGs@sAs@uAiAuBc@y@{@_B[i@Ym@[k@Yi@oAcCyBcEwAuC{@_BMWMU_ByCy@}Ao@mAw@{AkAwBsAgCqBsDu@wAo@mAs@sAcAkB_AgBeAqBa@u@y@_Bc@y@a@u@c@{@c@w@ACUe@Yg@eCkEy@aBy@aB}A_De@cAq@_B_A_CeCaHsAwEgAmD}DaNwByHY}@[aAWw@Sk@_AgCaAcCg@oAq@{Ac@}@w@cByDqHmDcHuE}IkGaM]q@_@s@]s@]s@{AyCuDiH_BcDcBcDoAcC}@wBy@yBaAaCu@sBo@kB_A{C{@kC{@gCyBmFg@aA_@u@g@_A{A}BgBaCgAqAwAmAu@w@aCyB[YDI"
+                     },
+                     "start_location" : {
+                        "lat" : 39.95666670000001,
+                        "lng" : -75.18166669999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.0544444,
+                              "lng" : -74.9844444
+                           },
+                           "name" : "Torresdale"
+                        },
+                        "arrival_time" : {
+                           "text" : "10:39am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415115540
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 39.95666670000001,
+                              "lng" : -75.18166669999999
+                           },
+                           "name" : "30th Street Station"
+                        },
+                        "departure_time" : {
+                           "text" : "10:15am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415114100
+                        },
+                        "headsign" : "Trenton",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "color" : "#f281c6",
+                           "name" : "Trenton Line",
+                           "text_color" : "#ffffff",
+                           "url" : "http://www.septa.org/schedules/rail/index.html",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/rail.png",
+                              "name" : "Train",
+                              "type" : "HEAVY_RAIL"
+                           }
+                        },
+                        "num_stops" : 5
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "177 ft",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 40.054396,
+                        "lng" : -74.98380899999999
+                     },
+                     "html_instructions" : "Walk to Grant Av & James St - FS",
+                     "polyline" : {
+                        "points" : "gcnsFvkthMF}B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.0544444,
+                        "lng" : -74.9844444
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "177 ft",
+                              "value" : 54
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 54
+                           },
+                           "end_location" : {
+                              "lat" : 40.054396,
+                              "lng" : -74.98380899999999
+                           },
+                           "polyline" : {
+                              "points" : "gcnsFvkthMF}B"
+                           },
+                           "start_location" : {
+                              "lat" : 40.0544444,
+                              "lng" : -74.9844444
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.1 mi",
+                        "value" : 5032
+                     },
+                     "duration" : {
+                        "text" : "12 mins",
+                        "value" : 720
+                     },
+                     "end_location" : {
+                        "lat" : 40.083067,
+                        "lng" : -74.97468599999999
+                     },
+                     "html_instructions" : "Bus towards Bustleton - County Line",
+                     "polyline" : {
+                        "points" : "_cnsFxgthM@HUDSHMHMJML]d@a@d@STGFMPo@r@s@z@QP_AhA_BjBqAzASRcDxDi@l@oC`Dg@l@e@j@OPqAzAiBvBo@oAIMg@cAaAkBS_@k@iAIOKSo@oAUc@e@}@[m@QYAEGKKSc@y@e@aAg@aA]o@g@XiGnD[PQNONKNOR]b@g@p@Y^QTONQPUPOJUNWJWH[FSBWBU?S@QASAy@Gc@GICKAQCuFy@yCa@_@Ek@G[Ca@C]AcAEuAEKAW?c@Ai@@[B_@Dm@Hs@N]La@PQHIB_@R]Ta@VSPg@d@k@j@_@b@QPON_BsCIQeAmBQ[IKCGGGGG\\a@T[P[BELWN_@Ng@ZkANs@HYVs@`@cATi@FM\\u@DM|@oBb@}@\\q@DGd@y@f@u@\\i@V]x@oAd@o@FKz@iABEBE?AFKFOFUDM@EaA]sEeB_A_@oDsAUI_C{@eA_@SIuCgAcA_@eEqAy@Wg@Qy@Su@Sy@Sk@Oi@OYKSG]OAAYO_@UIGQK][[[gAiAy@}@AA]_@k@m@OOEEKI_@YiCiB}@o@?ABI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.054396,
+                        "lng" : -74.98380899999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.083067,
+                              "lng" : -74.97468599999999
+                           },
+                           "name" : "Knights Rd & Lancelot Pl - MBFS"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:08am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415117280
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 40.054396,
+                              "lng" : -74.98380899999999
+                           },
+                           "name" : "Grant Av & James St - FS"
+                        },
+                        "departure_time" : {
+                           "text" : "10:56am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415116560
+                        },
+                        "headsign" : "Bustleton - County Line",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "name" : "Bustleton-CntyLn/FranMillMal to FTC",
+                           "short_name" : "84",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 24
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "161 ft",
+                        "value" : 49
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 40.0827646,
+                        "lng" : -74.975101
+                     },
+                     "html_instructions" : "Walk to 11080 Knights Road, Philadelphia, PA 19154, USA",
+                     "polyline" : {
+                        "points" : "evssFxnrhMGNf@\\BJBDDDHFDB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.083067,
+                        "lng" : -74.97468599999999
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "85 ft",
+                              "value" : 26
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 19
+                           },
+                           "end_location" : {
+                              "lat" : 40.0829068,
+                              "lng" : -74.974924
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eKnights Rd\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "evssFxnrhMGNf@\\"
+                           },
+                           "start_location" : {
+                              "lat" : 40.083067,
+                              "lng" : -74.97468599999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "75 ft",
+                              "value" : 23
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 20
+                           },
+                           "end_location" : {
+                              "lat" : 40.0827646,
+                              "lng" : -74.975101
+                           },
+                           "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eKnights Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "maneuver" : "turn-slight-right",
+                           "polyline" : {
+                              "points" : "eussFfprhMBJBDDDHFDB"
+                           },
+                           "start_location" : {
+                              "lat" : 40.0829068,
+                              "lng" : -74.974924
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s_qrF|m|jMx@A\\LX?b@CTR|CsCrEaEzAaBGy@Dq@QFIk@WeBmPqcAeOa_AGBMw@w@_FiAcHiB}Kk@{CeAaFyAmFqCeIeFyL{CqHyBkF}EmLmAaD_BgDkB{EgCkG_BsD}EgL}EkLiLaYk@wADCoFyMwCmGiFqJaGwIuBuCiDwE_JaNmHkK{EwHgD{ECDQWuCcEkH{KaCyDyAoDw@yC_@kB[_DkA{My@}Jo@mHiBcUeCgZkDoa@eG}s@_@aEg@iDy@}Co@aByDyIqCaG{DeKeAiDiBsHeAcG}@aHQkB]_FQiF?oEJqEn@}Iz@_H`BcLlEu[rBoObCsQpAaKP}CB}BKyF]cEy@uEu@oC}CcJu@cCeA{E{@cHS{DEiCI_GIeEW_FYoCm@}DqAmF}AeFoA_DcCyDgByBwEeFwBaBqC{@}Cc@aH}@iFi@uKwAi@W_@i@{@kBe@aCIwBBaBLgBh@oIJ}AQCEAGt@]tEe@bGYdAa@|@a@l@i@b@c@V}@VyHbAuDd@iE\\yHP_BTs@TeAd@qBtAuBvByAtBsBnEc@vAa@bBsAdKq@rEk@pBoGfNy@bBoAhB}AzAmAl@qCf@{ALaBMkAa@_Ae@iAy@mC_DiA{A}BoDaD_FiCiEqAwCyAgCu@iAgDkGm@uAgCqEyMiUgFyI_PqXsBqDu@}AoKqWcN}\\{Oq`@yAkEw@sCcBoGsLmc@kDoMoEwOoD_NeKq_@oByHmDkM}EmQiAgF_@oCSeCMeG@cJN_Ox@eUnEwr@vCic@`Cg^tBu[lAwQPyDBwCEkA]oDe@aCy@_CaB_DsIcKuB}Bk@w@_DoFoB}EqAkE]yA{@wEqAgIiFa]iGe`@yD}VmIwi@kCqNyB}IkBwGsCiIaEeKyBuF_IaSgGmO_DcI}A{DyFyM_DwGiIwOiMkV}LoUqV_e@_EmHwCaGwAcDeEaLqMad@aBcFaCkGyAkDcMwVmZql@cEgImC{F{B{FeB_F{BgH{@gCyBmFgAwBcC}DoDsEmCeC}CsCLgC@HUDa@R{AdB_IfJaPdR{DrEy@}AiDyGqDcH}A{CeAqBqHhEm@`@[^oBhCiAhAe@Zo@T}ANsBIgP{B_DO}CIeADmANqA\\s@ZiBdAgCfCa@`@iBeDeB}COOr@}@r@yAdAaEvAoDdCqFpBiD`FiHVs@FSuGcCeKyDsHqCgH{BuEkAuBs@eAo@o@g@cBeBeCmCaAy@gEyCBKGNf@\\FPTP"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      },
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.0831051,
+               "lng" : -74.97468599999999
+            },
+            "southwest" : {
+               "lat" : 39.9022092,
+               "lng" : -75.3535674
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "11:08am",
+                  "time_zone" : "America/New_York",
+                  "value" : 1415117331
+               },
+               "departure_time" : {
+                  "text" : "9:00am",
+                  "time_zone" : "America/New_York",
+                  "value" : 1415109622
+               },
+               "distance" : {
+                  "text" : "30.3 mi",
+                  "value" : 48715
+               },
+               "duration" : {
+                  "text" : "2 hours 8 mins",
+                  "value" : 7709
+               },
+               "end_address" : "11080 Knights Road, Philadelphia, PA 19154, USA",
+               "end_location" : {
+                  "lat" : 40.0827646,
+                  "lng" : -74.975101
+               },
+               "start_address" : "500 College Avenue, Swarthmore, PA 19081, USA",
+               "start_location" : {
+                  "lat" : 39.9053772,
+                  "lng" : -75.353431
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 446
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 337
+                     },
+                     "end_location" : {
+                        "lat" : 39.9022222,
+                        "lng" : -75.35083329999999
+                     },
+                     "html_instructions" : "Walk to Swarthmore",
+                     "polyline" : {
+                        "points" : "s_qrF|m|jM?@L?HCLADAHBB?PHJBL@JAHAJAD?F?JDHL|A}A~@u@xAsA|@w@j@e@NOlAoAHI@C@C?C?E?GGg@Dq@"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9053772,
+                        "lng" : -75.353431
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "331 ft",
+                              "value" : 101
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 66
+                           },
+                           "end_location" : {
+                              "lat" : 39.9045226,
+                              "lng" : -75.3535674
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "s_qrF|m|jM?@L?HCLADAHBB?PHJBL@JAHAJAD?F?JDHL"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9053772,
+                              "lng" : -75.353431
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.2 mi",
+                              "value" : 308
+                           },
+                           "duration" : {
+                              "text" : "4 mins",
+                              "value" : 224
+                           },
+                           "end_location" : {
+                              "lat" : 39.9022807,
+                              "lng" : -75.3514576
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "gzprFxn|jM|A}A~@u@xAsA|@w@j@e@NOlAoA"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9045226,
+                              "lng" : -75.3535674
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "121 ft",
+                              "value" : 37
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 47
+                           },
+                           "end_location" : {
+                              "lat" : 39.9022222,
+                              "lng" : -75.35083329999999
+                           },
+                           "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "maneuver" : "turn-slight-left",
+                           "polyline" : {
+                              "points" : "glprFra|jMHI@C@C?C?E?GGg@Dq@"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9022807,
+                              "lng" : -75.3514576
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "11.7 mi",
+                        "value" : 18870
+                     },
+                     "duration" : {
+                        "text" : "38 mins",
+                        "value" : 2280
+                     },
+                     "end_location" : {
+                        "lat" : 39.9525,
+                        "lng" : -75.1580556
+                     },
+                     "html_instructions" : "Train towards Center City Philadelphia",
+                     "polyline" : {
+                        "points" : "{kprFt}{jMQFCUEUE]EUIk@AEM{@Gg@Oy@{D_V{@eF}ByNACoCoPu@_FcBoKgAqGE]}DiVAESkAiAeHGBMw@_@eCWyAESEUCSy@eFy@sEo@iEG[c@_CeAaFyAmFaA}CoAgDuAiD_AuBq@cB]u@oAgDkAiCm@yAkAqCs@kB_AwBy@mBo@{Aq@eB[{@]w@aAoBAGg@oAg@oAYs@iAkC}@_C}@mBa@eA_@aAeAaCeAiCq@yAu@mBqA}Ci@iAk@uA{CuHsC{GiAsCo@{Ak@uA?ADCoFyMwCmGiFqJqCcEoBsCW[Wa@GK}@kAe@m@cCiDoCiEoEwGq@gA{FcI{DiG_@m@EGU]wB{CSYCDQWsAkBaAwAsAsBgAeBgAcBgA}AiAcBw@uAu@aBc@mA[iA[oA_@kB[_D_@sEk@gGYqD_@kECYa@kEGcAACIqAi@iG]cEWcDGk@Gy@IaAc@eFa@eFUkCOgBOeBQsBOmBWyCM}Ac@{Ee@_GIs@?Im@_HW{Cg@_G[_EUeCg@gG}@iK]wDAIUmBQ{@y@}Co@aBiAgCoBqECCmC}F}A{D}AiEeAiDiBsH_@uBe@mC]aC_@_DIs@Gw@Gu@?CKiAI{AIeBGcC?sC?{@DgCDiAVoEVmCV{Bb@cDt@}Ej@eE`AmHr@eFn@mEf@sDFc@NoA^qCz@iGbAqH~@aHz@eGT{BL_BB}@@{@@aAAcACeBCu@AYIuASmBa@iCWkAQs@c@{Au@uBgBmF_@kAUw@a@aBc@yB]}BM}@Gq@Gu@KuAGeBEyB?OAu@CsACkB?IAm@Cm@?IC_BKgCKwAKcAMkAMeA_@wBg@{Bi@qBeAkDWy@s@mB[q@iAoBy@iAgAuA_@c@wCcD_AaAcA{@s@e@_A]qA]{AUaAMsAQoC_@UCg@G}AQkCWaEk@sEk@i@W_@i@c@}@Wm@]qAGo@Ey@C}@@{@@e@Dk@F{@VqEP}BJ}A?GJiBP{AJ}@D]LaAF]F]Hg@Hg@@ELi@^yABKR_ANu@Da@PcBNsBLmBJsANsBLsBHwANoBFkAbCu`@XeEjEcq@PqCvBV"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9022222,
+                        "lng" : -75.35083329999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 39.9525,
+                              "lng" : -75.1580556
+                           },
+                           "name" : "Jefferson Station (formerly Market East)"
+                        },
+                        "arrival_time" : {
+                           "text" : "9:44am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415112240
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 39.9022222,
+                              "lng" : -75.35083329999999
+                           },
+                           "name" : "Swarthmore"
+                        },
+                        "departure_time" : {
+                           "text" : "9:06am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415109960
+                        },
+                        "headsign" : "Center City Philadelphia",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "color" : "#007cc8",
+                           "name" : "Media/Elwyn Line",
+                           "text_color" : "#ffffff",
+                           "url" : "http://www.septa.org/schedules/rail/index.html",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/rail.png",
+                              "name" : "Train",
+                              "type" : "HEAVY_RAIL"
+                           }
+                        },
+                        "num_stops" : 11
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "289 ft",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : 39.951728,
+                        "lng" : -75.158322
+                     },
+                     "html_instructions" : "Walk to 11th St Station",
+                     "polyline" : {
+                        "points" : "cfzrFzhviMxCr@"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9525,
+                        "lng" : -75.1580556
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "289 ft",
+                              "value" : 88
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 88
+                           },
+                           "end_location" : {
+                              "lat" : 39.951728,
+                              "lng" : -75.158322
+                           },
+                           "polyline" : {
+                              "points" : "cfzrFzhviMxCr@"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9525,
+                              "lng" : -75.1580556
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.4 mi",
+                        "value" : 11910
+                     },
+                     "duration" : {
+                        "text" : "22 mins",
+                        "value" : 1320
+                     },
+                     "end_location" : {
+                        "lat" : 40.023427,
+                        "lng" : -75.077185
+                     },
+                     "html_instructions" : "Subway towards Frankford Trans Ctr",
+                     "polyline" : {
+                        "points" : "iazrFnjviM@Af@yHReDPsCd@{HViELqBh@cI@]HcADo@LyBBU?Aj@kId@{HJ{AFcALoBRwB\\cDHmAQiAUm@i@}@{@a@aCSaJEqF?}DA}Dc@yI[cJcA}Eo@C?kE}AeEgBsD}BaCeBuCqC[Ys@QIA_AUwBe@{@QeB_@o@OoAUy@Qe@KmCm@A?eB]gBa@sAYy@QqFmA{Dy@OCe@K_E{@WGQEGAs@Oq@Mk@Ow@OoDe@g@G_@E{BYiH_AA?kBU}Di@yFw@e@EMCkFq@i@Ge@IcHaAIAKCcBSyCYIAOEKCGCOQOSAE]w@c@_A]y@[o@]s@_@}@_@}@}B_F}@qBcA{Bo@wAo@uAq@_Ba@y@Sc@EMw@iBWe@GMEKKYA?GOISa@{@a@y@eA_Cw@cB_AiBg@}@ISKU_AsBy@kBc@{@_@{@eCsFWk@ISO[Yo@}EuKEIIQqAuCq@wAq@uA_AqBMYMWq@}A}@uBw@iBgAaC}@kB{@mB{@kB_AuBaAwBw@gB_CiFsBoEaAyBo@uAMYKSy@eBm@qAQ_@[s@{@mB_@}@KSYo@e@gAqAuCyBaFyCsGwB{Eu@}AeDqHsA{CKSm@sAqBgEy@mBw@eBMYiAiCy@gBO]Uc@QYGGGKIISSSOCCe@WQKsCeBA?UMk@[[OeAm@[Qa@Ua@[i@g@QQiEuDaA}@qBgBaA_AyDkDu@q@iB{AIGIIc@a@mE_EMMkC_CmBcB}BwBkBaBiBaBoBgBeAcASSSWGMa@o@k@aAuEgE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.951728,
+                        "lng" : -75.158322
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.023427,
+                              "lng" : -75.077185
+                           },
+                           "name" : "Frankford Transportation Center - MFL"
+                        },
+                        "arrival_time" : {
+                           "text" : "10:13am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415113980
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 39.951728,
+                              "lng" : -75.158322
+                           },
+                           "name" : "11th St Station"
+                        },
+                        "departure_time" : {
+                           "text" : "9:51am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415112660
+                        },
+                        "headsign" : "Frankford Trans Ctr",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "color" : "#0000df",
+                           "name" : "Frankford TC to 69th St TC",
+                           "short_name" : "MFL",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/metro.png",
+                              "name" : "Subway",
+                              "type" : "SUBWAY"
+                           }
+                        },
+                        "num_stops" : 15
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.02362300000001,
+                        "lng" : -75.076971
+                     },
+                     "html_instructions" : "Walk to Frankford Transportation Center",
+                     "polyline" : {
+                        "points" : "mahsFjofiMe@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.023427,
+                        "lng" : -75.077185
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "92 ft",
+                              "value" : 28
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 28
+                           },
+                           "end_location" : {
+                              "lat" : 40.02362300000001,
+                              "lng" : -75.076971
+                           },
+                           "polyline" : {
+                              "points" : "mahsFjofiMe@i@"
+                           },
+                           "start_location" : {
+                              "lat" : 40.023427,
+                              "lng" : -75.077185
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "10.8 mi",
+                        "value" : 17324
+                     },
+                     "duration" : {
+                        "text" : "43 mins",
+                        "value" : 2580
+                     },
+                     "end_location" : {
+                        "lat" : 40.083067,
+                        "lng" : -74.97468599999999
+                     },
+                     "html_instructions" : "Bus towards Bustleton - County Line",
+                     "polyline" : {
+                        "points" : "sbhsF`nfiMr@SF?B?FC@AfCqCHIdAgA`AiAr@w@JIX[d@a@VSZUHILKNMp@i@v@m@HIh@c@p@g@JIf@a@DCFGFI`@c@V[RSDGJILGDATGt@UJCl@Qt@St@ShBg@LEdBg@xAa@JCzA_@b@MvA_@n@Qd@OJC|EsAJEfFuAd@MTGJCZMdA[hA[XINCPERBd@APAJAj@KFAb@K\\If@Mj@MRGXGPEPCAWAUE}@Cs@w@uKAUG[Ok@]kB_@aBYqAES}@aEg@}BG[EOGUISGQO[_B_D?Ag@aAIOaCuEyAsCMUIOEMMY{@eBO]cCcFOa@k@sAKS{DwJGMOa@KY{AwEa@iAOa@gAsCeB{DIS]aA?QWmA@KFQDMDKZm@f@w@JODGBEHOFQFMFSDOBOBQBW@M?U@UAS?SCUCMCMCMI[O]GMGMOUKMKKMEMCMAM@MDKFKHw@n@m@h@QLg@^IBGBG@E?I?GAGCGEECGEAC]o@GK[s@IQGOO[ISI[k@qBIUe@sAEKIUSg@m@yA{@yBAEEMGSCOCQ?AAOAWAW?m@?cB?]?_@C[E]EOw@cC]_AGUi@_BUo@q@mBc@qA]_AIQQQSSKGCCIGUIKEIAGCQGc@IMCSCSGQIOMQOMMMSMUIQIUISUq@]eA_@iAM[Ws@w@}BMa@GSs@oBkA_DGSu@oBcAoCGSYHIHgA~@u@l@i@b@q@f@UNIFEDSNg@\\IFq@f@{@l@_@XaAp@IFgBpAwA`AKHeAx@c@ZQa@qB_F]y@w@kBq@aBISu@eBq@aBm@wAIS_A{Bw@kBu@gBISa@aA]w@[u@Ys@]w@Uk@IS_@_A[q@[w@Q_@ISe@kA_@{@[w@Q_@hBcA\\S|@i@`Ai@TMNIJEHENGNMHIJKXW^]l@m@h@g@^c@RUV[JMJIPOVU\\]j@k@@AbA}@Sa@Yw@EKIOcA{Bq@sAUe@Qa@k@kAGOUe@{ByE_BoDGKc@_Aq@{AoAmCy@gBq@}AgA_CyDiIQc@_@w@k@sAKWe@mAOa@GQeAwCoB{FcB}E[_Ag@qAe@oAsB{EUk@AAMYISe@aAGOk@cAYg@y@}A[o@Wk@cA_C}AsDcFcLcA}BKUYm@s@uAoAgCuAqC}A_DGM[q@O[{@iBQ]c@}@s@}AgA{Ba@y@ISm@mA{@cBs@uAq@qA?OIUQc@]q@KUYg@iAsBKGKSUa@c@{@_@u@m@iAIOs@sAoDeHsB}DYk@?AcAmBKQi@gA_AiBi@eAEIwBi@_@ZWRIHo@f@o@h@MHKFMDKBUDSHMHMJML]d@a@d@STGFMPo@r@s@z@QP_AhA_BjBqAzASRcDxDi@l@oC`Dg@l@e@j@OPqAzAiBvBo@oAIMg@cAaAkBS_@k@iAIOKSo@oAUc@e@}@[m@QYAEGKKSc@y@e@aAg@aA]o@g@XiGnD[PQNONKNOR]b@g@p@Y^QTONQPUPOJUNWJWH[FSBWBU?S@QASAy@Gc@GICKAQCuFy@yCa@_@Ek@G[Ca@C]AcAEuAEKAW?c@Ai@@[B_@Dm@Hs@N]La@PQHIB_@R]Ta@VSPg@d@k@j@_@b@QPON_BsCIQeAmBQ[IKCGGGGG\\a@T[P[BELWN_@Ng@ZkANs@HYVs@`@cATi@FM\\u@DM|@oBb@}@\\q@DGd@y@f@u@\\i@V]x@oAd@o@FKz@iABEBE?AFKFOFUDM@EaA]sEeB_A_@oDsAUI_C{@eA_@SIuCgAcA_@eEqAy@Wg@Qy@Su@Sy@Sk@Oi@OYKSG]OAAYO_@UIGQK][[[gAiAy@}@AA]_@k@m@OOEEKI_@YiCiB}@o@?ABI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.02362300000001,
+                        "lng" : -75.076971
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.083067,
+                              "lng" : -74.97468599999999
+                           },
+                           "name" : "Knights Rd & Lancelot Pl - MBFS"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:08am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415117280
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 40.02362300000001,
+                              "lng" : -75.076971
+                           },
+                           "name" : "Frankford Transportation Center"
+                        },
+                        "departure_time" : {
+                           "text" : "10:25am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415114700
+                        },
+                        "headsign" : "Bustleton - County Line",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "name" : "Bustleton-CntyLn/FranMillMal to FTC",
+                           "short_name" : "84",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 80
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "161 ft",
+                        "value" : 49
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 40.0827646,
+                        "lng" : -74.975101
+                     },
+                     "html_instructions" : "Walk to 11080 Knights Road, Philadelphia, PA 19154, USA",
+                     "polyline" : {
+                        "points" : "evssFxnrhMGNf@\\BJBDDDHFDB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.083067,
+                        "lng" : -74.97468599999999
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "85 ft",
+                              "value" : 26
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 19
+                           },
+                           "end_location" : {
+                              "lat" : 40.0829068,
+                              "lng" : -74.974924
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eKnights Rd\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "evssFxnrhMGNf@\\"
+                           },
+                           "start_location" : {
+                              "lat" : 40.083067,
+                              "lng" : -74.97468599999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "75 ft",
+                              "value" : 23
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 20
+                           },
+                           "end_location" : {
+                              "lat" : 40.0827646,
+                              "lng" : -74.975101
+                           },
+                           "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eKnights Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "maneuver" : "turn-slight-right",
+                           "polyline" : {
+                              "points" : "eussFfprhMBJBDDDHFDB"
+                           },
+                           "start_location" : {
+                              "lat" : 40.0829068,
+                              "lng" : -74.974924
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s_qrF|m|jMx@A\\LX?b@CTR|CsCrEaEzAaBGy@Dq@QFIk@WeBmPqcAeOa_AGBMw@w@_FiAcHiB}Kk@{C_DoMqCeIeFyLuG}O}EmLmAaD_BgDkB{EgF_M{LsYiLaYk@wADCoFyMwCmGiFqJaGwIuBuCiDwE_JaNmHkK{EwHgD{ECDQWuCcEkH{KaCyDyAoDw@yC{@kGeCyYyCq^qHw|@eG}s@_@aEg@iDiB_GyDyIqCaG{DeKoD}MeAcGoAmK]_FQiF?oEJqEn@}I|CcUlEu[rBoOtEu]P}CB}BKyF]cEy@uEsEsNu@cCeA{E{@cHYeII_GIeEW_FYoCm@}DqAmF}AeFoA_DcCyDgByBwEeFwBaBqC{@}Cc@aH}@iFi@uKwAi@W_@i@{@kBe@aCIwBPiEt@uLn@aHf@eDx@qDl@cDz@yKhL{hBPqCvBVxCr@nAuRfCma@dCi`@p@{GHmAQiA_AkB{@a@aCSsQE}DA}Dc@yI[cJcAaFo@qKeEuHcFqDkD}@SyImB_FcAy[aHmKyBcB_@wEm@gM_Bs[eE}QaCi@o@{BaFmKuUuF_MoD_I_DkGoCiGsNm[sGkNsL}W_P_^kZwp@wOq]aDiHw@qAu@q@mEiCcDgB}@g@kAcAoKmJ{KyJmOeNcMcLuB}BmAqB{FqFfAWtJmKjFgEnDwCrA{At@[xLiD~KyCzRsFdCo@x@@\\CtBc@`Ck@b@ICm@cA}O{E{T_@uAwBoEyHiO_FiK{FmNyC}IgEeK]sAUyAn@yA|@uA`@cAPiA@mAKeAe@uAo@}@[I[?YLcAx@qBzA_@D]Oo@eA}@qBiAwDiA}CqBgFOw@IkHKm@uAcEyBsGaAqC[c@m@g@s@UwAYgAo@s@iAeEyL_HmRc@R}BlB{BbB{G|EuEdDiBtAcCaGqC{G_DsHmHgQqDuIsB_FfGkDz@c@t@k@hFoFrAmAl@m@bA}@Sa@_@cAmAkCeCgFgLuVwMwY{Ke[wFyM{CyF}KcWiL_V{HgPgD{GmA{CmCcFW[y@}AkCcF}HqOyDqHo@oAwBi@_@Za@\\_BpAs@ZeAd@aBnB}JlLaPdRiBvBo@oAq@qAkCeFoD_H}BqE]o@g@XeH`E}@bAqBjCgA~@aBl@uAHcCS_PwByEQqBA}Cb@{Al@sBrAeCfCON_BsCoA_Cg@w@GG\\a@f@w@p@eBlAmE|AqDdCmFpBaDbEaG\\_A_Ac@sGeCkKyDmFqBaJoCeEgAmAe@uAy@wG_H{DsC}@q@BIGNj@h@HJNJ"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      },
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.0831051,
+               "lng" : -74.97468599999999
+            },
+            "southwest" : {
+               "lat" : 39.849468,
+               "lng" : -75.36244099999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "11:08am",
+                  "time_zone" : "America/New_York",
+                  "value" : 1415117331
+               },
+               "departure_time" : {
+                  "text" : "9:11am",
+                  "time_zone" : "America/New_York",
+                  "value" : 1415110317
+               },
+               "distance" : {
+                  "text" : "34.9 mi",
+                  "value" : 56144
+               },
+               "duration" : {
+                  "text" : "1 hour 57 mins",
+                  "value" : 7014
+               },
+               "end_address" : "11080 Knights Road, Philadelphia, PA 19154, USA",
+               "end_location" : {
+                  "lat" : 40.0827646,
+                  "lng" : -74.975101
+               },
+               "start_address" : "500 College Avenue, Swarthmore, PA 19081, USA",
+               "start_location" : {
+                  "lat" : 39.9053772,
+                  "lng" : -75.353431
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 354
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 228
+                     },
+                     "end_location" : {
+                        "lat" : 39.906382,
+                        "lng" : -75.350268
+                     },
+                     "html_instructions" : "Walk to Chester Rd & College Av",
+                     "polyline" : {
+                        "points" : "s_qrF|m|jM@A?A?A@??A?A?A?A?A?AA??A?AAA?AAAAAA??AA?A??AA?A?A@A?A??@A??@A?o@q@KK_@Ue@[s@[ICEECGCECECICKAK?G@MFw@TqCXkDMC"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9053772,
+                        "lng" : -75.353431
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "89 ft",
+                              "value" : 27
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 19
+                           },
+                           "end_location" : {
+                              "lat" : 39.9054989,
+                              "lng" : -75.353292
+                           },
+                           "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eCollege Ave\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "s_qrF|m|jM@A?A?A@??A?A?A?A?A?AA??A?AAA?AAAAAA??AA?A??AA?A?A@A?A??@A??@A?"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9053772,
+                              "lng" : -75.353431
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.2 mi",
+                              "value" : 327
+                           },
+                           "duration" : {
+                              "text" : "3 mins",
+                              "value" : 209
+                           },
+                           "end_location" : {
+                              "lat" : 39.906382,
+                              "lng" : -75.350268
+                           },
+                           "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCollege Ave\u003c/b\u003e",
+                           "maneuver" : "turn-slight-right",
+                           "polyline" : {
+                              "points" : "k`qrF`m|jMo@q@KK_@Ue@[s@[ICEECGCECECICKAK?G@MFw@TqCXkDMC"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9054989,
+                              "lng" : -75.353292
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.2 mi",
+                        "value" : 6743
+                     },
+                     "duration" : {
+                        "text" : "14 mins",
+                        "value" : 840
+                     },
+                     "end_location" : {
+                        "lat" : 39.849628,
+                        "lng" : -75.36029499999999
+                     },
+                     "html_instructions" : "Bus towards Chester Trans. Ctr.",
+                     "polyline" : {
+                        "points" : "{eqrFdz{jM@QRBhBBpEJ~DDhBBvAF`AP`@Hz@Ll@JjAPXD|ALd@BR@p@F^DzCj@RDVBLBL@L?L@V?N?vE?V?x@?^?V@L?PBf@HrBZr@Ln@Lb@LRHdBd@xBn@NDlC|@nDhANDf@NzBv@^NhAb@bCfAf@TZPjFzC|@f@lCxARNXP`@VpEpCrAp@HDv@`@nAx@d@\\`@ZRPRTZ\\n@n@d@x@jAlBl@bAn@bAz@zARXV\\XXXV\\VTNNJXLXJjAXbAPt@J^FD?jBZ~@THJJBHBZFJ@f@HT@d@Cj@GNAREHKLCJCbBe@VI^Kj@QREbAWzA_@l@Mf@Mr@O^GXEXC`@C^Ah@AZB^BXDXBPDNDRFRFh@PTDbLtC`FbAd@HdAPvARhAPB@LBJBHBFBB?@?B@D?F?J?LAPCXCXCJ?PCNAhBQl@ENAHC@?JAHENC`@MLG~@_@TILG\\QnAo@jAm@pAe@tAg@LErBw@PGf@KFAHChAMt@OdB[p@QJDJCPCXEr@KVEBARCPCPCPAF?J?R?XBr@Ft@Jr@JJCvA^b@LLB`@L^HVFD@d@LPF^RTLTTJPRTHNHPDJDRTELCJATCJCHAh@I^GxASVE~CYLAd@ClDKhBE~@A`AAT?\\?`@?l@@J?z@Dx@B~@BrAJJ?pFJOq@OeA"
+                     },
+                     "start_location" : {
+                        "lat" : 39.906382,
+                        "lng" : -75.350268
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 39.849628,
+                              "lng" : -75.36029499999999
+                           },
+                           "name" : "Chester Transportation Center"
+                        },
+                        "arrival_time" : {
+                           "text" : "9:30am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415111400
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 39.906382,
+                              "lng" : -75.350268
+                           },
+                           "name" : "Chester Rd & College Av"
+                        },
+                        "departure_time" : {
+                           "text" : "9:16am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415110560
+                        },
+                        "headsign" : "Chester Trans. Ctr.",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "name" : "Chester TC to 69th St TC",
+                           "short_name" : "109",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 29
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 ft",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 39.8497222,
+                        "lng" : -75.36000000000001
+                     },
+                     "html_instructions" : "Walk to Chester",
+                     "polyline" : {
+                        "points" : "ecfrFxx}jMQy@"
+                     },
+                     "start_location" : {
+                        "lat" : 39.849628,
+                        "lng" : -75.36029499999999
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "89 ft",
+                              "value" : 27
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 27
+                           },
+                           "end_location" : {
+                              "lat" : 39.8497222,
+                              "lng" : -75.36000000000001
+                           },
+                           "polyline" : {
+                              "points" : "ecfrFxx}jMQy@"
+                           },
+                           "start_location" : {
+                              "lat" : 39.849628,
+                              "lng" : -75.36029499999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "12.5 mi",
+                        "value" : 20096
+                     },
+                     "duration" : {
+                        "text" : "33 mins",
+                        "value" : 1980
+                     },
+                     "end_location" : {
+                        "lat" : 39.95666670000001,
+                        "lng" : -75.18166669999999
+                     },
+                     "html_instructions" : "Train towards Center City Philadelphia",
+                     "polyline" : {
+                        "points" : "wcfrF~v}jMVO_@sAAAyDiNGWIUyAqFGWIUwAiFQq@Sq@wCoKI[IY_AgDKa@K_@}EgQ[_AOi@uAcEgAoCo@aBeBoDs@wAKUMUMUoBeD]k@y@oACEOUQUc@k@{AmBo@u@aAmAoBwBkAgAkDyCeCoBq@c@a@YaEaCoCwAwDsB_KkFwC{AgBy@mAu@uGkD}EgCqBgAcAm@GAiAo@aG{CuC_BcBaA{CuB{BeBqBgBu@s@iAgAqBaCeB}B{AwB}AgCy@}AmCgFAC{AuCu@wAsCsFgDuGaBeDoAkCg@gAkBeD{EgJ_AgBiEkIQ_@kEoIs@{AO[M[y@sB_@cAQc@Yy@uAiEwAuEsAiE{AyEmA}Dq@uBSo@qA}D?AgAoDwB_HGQ[cAo@sByCiJcAeDEOK[_@kAW{@Y{@aGmROe@}A}EK]Qi@CIwAwEmHsUcHwTkAwDQm@g@_BqEqN_FyOuCgJgAiDu@aCk@aB_@eACKs@kBaA_CaBoDwAmCw@qAiAgBmAeB_@e@gB{BOOg@o@EEyBqCqBsCSa@_CgEcBmDgAeCmBmF{@mCcA_E_AeEa@qB]qBIq@Kq@c@uDGg@Ec@OuAIsAQaCa@kF[aD]iC{@cFe@_Ck@{BSw@Mc@Om@g@aBSo@Sq@Uo@Uo@Uo@ACIQGQIS]{@_@y@_@y@a@y@a@w@a@w@S[w@qAsD_GWc@kDwFq@cAsAyB{AaC}@uA_@m@_@o@w@mAIMiCcE_BgCIOkBwC_A{AS]cBkCIM_A_BiBsC_A{AeD_F]i@AEqCmEsEmHyBqDaIiMuDcGw@kA{A_CgCyDEIgAeBcC{DwCwEcC{DaA}A_AyAm@cAw@mAqAuBmAmBw@kAQ[Sa@e@w@c@o@IKa@o@_@m@m@cAo@iA{@wAq@iAw@sAYc@[e@U_@eAcBm@_Au@kAs@gAo@_Ay@gAoA{Aw@}@w@y@aAeAi@m@o@w@w@aAu@oAYg@u@{A_AaCWs@Mc@YgAMi@_@oB[kBS_BCIGs@ImAE_BGiAE{@Au@CsACkB?IAm@Cm@?IC_BKgCKwAKcAMkAMeA_@wBg@{Bi@qBeAkDWy@s@mB[q@iAoBy@iAgAuA_@c@wCcD_AaAcA{@s@e@_A]qA]{AUaAMsAQoC_@UCg@G}AQkCWaEk@sEk@i@W_@i@c@}@Wm@]qAGo@Ey@C}@@{@@e@Dk@F{@VqEP}BJ}AQC"
+                     },
+                     "start_location" : {
+                        "lat" : 39.8497222,
+                        "lng" : -75.36000000000001
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 39.95666670000001,
+                              "lng" : -75.18166669999999
+                           },
+                           "name" : "30th Street Station"
+                        },
+                        "arrival_time" : {
+                           "text" : "10:08am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415113680
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 39.8497222,
+                              "lng" : -75.36000000000001
+                           },
+                           "name" : "Chester"
+                        },
+                        "departure_time" : {
+                           "text" : "9:35am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415111700
+                        },
+                        "headsign" : "Center City Philadelphia",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "color" : "#8ad16b",
+                           "name" : "Wilmington/Newark Line",
+                           "text_color" : "#ffffff",
+                           "url" : "http://www.septa.org/schedules/rail/index.html",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/rail.png",
+                              "name" : "Train",
+                              "type" : "HEAVY_RAIL"
+                           }
+                        },
+                        "num_stops" : 12
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "14.8 mi",
+                        "value" : 23789
+                     },
+                     "duration" : {
+                        "text" : "24 mins",
+                        "value" : 1440
+                     },
+                     "end_location" : {
+                        "lat" : 40.0544444,
+                        "lng" : -74.9844444
+                     },
+                     "html_instructions" : "Train towards Trenton",
+                     "polyline" : {
+                        "points" : "e`{rFl|ziMEAGt@Eh@WjDOjBMfBAHEd@Kb@M`@Qd@OVKNU\\]XKHOJSJc@NYFSByAPgBTcBVq@FcC\\{BTmAFiBB{BDU@}@Di@Du@Ng@NKDWJm@Xe@XkAz@UR_@^WTg@l@i@p@SXKPOVWb@i@lAWh@Yr@Wl@Kh@Qn@Or@Mx@SzAS|A]pC_@lCQdA[pAO^Sh@wA|CwA|CkA`C_@v@Yj@[h@s@~@o@r@m@f@c@Ti@V}@RsARcAJW@q@Ao@Kg@Oc@QUMi@Wi@c@_@Uo@o@}AoB{@gAMS]g@U]W_@q@iAoAoBU]]g@]i@U]S[q@kAm@cA]u@]u@IWKSc@w@g@{@GKEGUUEGGKQ_@s@uAa@q@_@k@q@wACIi@kA}@eBiAkB_GaK{@wAoBiDm@eAoAuBUc@oAuBq@iAs@mAu@mAoA{Ba@q@g@}@oBeDi@_AaCcEw@uA{@{AYi@[s@oAyCOa@eAgCiFmMQa@Qa@uDmJc@cAYw@yAqD{AqDUk@Sk@qB_F_C}Fm@}As@cBmA{Cs@eBq@cBo@gBi@cBa@yAUy@[mA]mA[kAMg@mBaH]oA_@mAwBgICGQo@Qq@gB{GwAiFK_@Ia@}@cDoBkH_@iAs@_CKa@K_@CMc@aBSu@Uw@_AqDIWGW_@qAOi@Sw@YgAc@}A_@sAU}@CKSq@i@sBSq@Mg@Mg@y@wCU}@K[I[Qq@a@_Bq@kCcAkDGSEQ{AyFs@mCeAwDg@kB{@{Cs@yCUmAOcAOkAI_AIeAGeBE_DA_@BcIBgEJwH^{LP{DBe@Bg@bAqPf@oHXcEhAqQTwC\\kFZoEJwAh@mIHmAB_@Ba@JyAb@wGh@uH@_@B]B]LqBNqBZyEF{@F_AF}@FgAh@kHL_C@MDk@Dk@RwCl@gJB_@B_@Bu@DcABgA?oACi@Aa@Eq@Gs@G_@Gi@UmAOs@Y_A_@_AWo@MUg@{@S]m@w@iBwBe@k@MKg@k@W[o@s@W_@QOKKOMgAsAAAi@u@gAgBwAgCkAoCOa@IUIUy@kCW_AMe@Os@GWMm@SgAQiAi@eDQgAQgACQm@uD_@gCeA_He@uCQgAGc@Ga@M_A{@iFCSGa@Gc@YaBq@aE{@mFq@oECOM{@G_@o@cEGa@O}@O}@MaAIe@?CEUCSG]E]Ig@Mu@E]M{@]oBW_BOkAUsAa@kCQiAY_BYkBOaASuAO_AUyAQkAYmB[gBMw@Q_AMs@Km@WmAMm@Os@CIG]I_@?AYeAS{@]oAWaAs@kC[gA[aA?Aa@qA[aAi@yAk@{Ae@mAa@_A{@aC}@uB]{@i@uAWm@Yu@e@gAiAuCWq@u@kB{@yBCE[w@e@mAk@}Ac@cAo@{Ae@mAy@oBO_@KWKYK[Yu@CIWk@i@uAIQQc@Wo@Sg@Se@Uo@_@}@iAmCqA}C}@qB_@{@CCO]O[KUgA_CCGQ]Q]Q]a@w@CGs@sAs@uAiAuBc@y@{@_B[i@Ym@[k@Yi@oAcCyBcEwAuC{@_BMWMU_ByCy@}Ao@mAw@{AkAwBsAgCqBsDu@wAo@mAs@sAcAkB_AgBeAqBa@u@y@_Bc@y@a@u@c@{@c@w@ACUe@Yg@eCkEy@aBy@aB}A_De@cAq@_B_A_CeCaHsAwEgAmD}DaNwByHY}@[aAWw@Sk@_AgCaAcCg@oAq@{Ac@}@w@cByDqHmDcHuE}IkGaM]q@_@s@]s@]s@{AyCuDiH_BcDcBcDoAcC}@wBy@yBaAaCu@sBo@kB_A{C{@kC{@gCyBmFg@aA_@u@g@_A{A}BgBaCgAqAwAmAu@w@aCyB[YDI"
+                     },
+                     "start_location" : {
+                        "lat" : 39.95666670000001,
+                        "lng" : -75.18166669999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.0544444,
+                              "lng" : -74.9844444
+                           },
+                           "name" : "Torresdale"
+                        },
+                        "arrival_time" : {
+                           "text" : "10:39am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415115540
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 39.95666670000001,
+                              "lng" : -75.18166669999999
+                           },
+                           "name" : "30th Street Station"
+                        },
+                        "departure_time" : {
+                           "text" : "10:15am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415114100
+                        },
+                        "headsign" : "Trenton",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "color" : "#f281c6",
+                           "name" : "Trenton Line",
+                           "text_color" : "#ffffff",
+                           "url" : "http://www.septa.org/schedules/rail/index.html",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/rail.png",
+                              "name" : "Train",
+                              "type" : "HEAVY_RAIL"
+                           }
+                        },
+                        "num_stops" : 5
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "177 ft",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 40.054396,
+                        "lng" : -74.98380899999999
+                     },
+                     "html_instructions" : "Walk to Grant Av & James St - FS",
+                     "polyline" : {
+                        "points" : "gcnsFvkthMF}B"
+                     },
+                     "start_location" : {
+                        "lat" : 40.0544444,
+                        "lng" : -74.9844444
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "177 ft",
+                              "value" : 54
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 54
+                           },
+                           "end_location" : {
+                              "lat" : 40.054396,
+                              "lng" : -74.98380899999999
+                           },
+                           "polyline" : {
+                              "points" : "gcnsFvkthMF}B"
+                           },
+                           "start_location" : {
+                              "lat" : 40.0544444,
+                              "lng" : -74.9844444
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.1 mi",
+                        "value" : 5032
+                     },
+                     "duration" : {
+                        "text" : "12 mins",
+                        "value" : 720
+                     },
+                     "end_location" : {
+                        "lat" : 40.083067,
+                        "lng" : -74.97468599999999
+                     },
+                     "html_instructions" : "Bus towards Bustleton - County Line",
+                     "polyline" : {
+                        "points" : "_cnsFxgthM@HUDSHMHMJML]d@a@d@STGFMPo@r@s@z@QP_AhA_BjBqAzASRcDxDi@l@oC`Dg@l@e@j@OPqAzAiBvBo@oAIMg@cAaAkBS_@k@iAIOKSo@oAUc@e@}@[m@QYAEGKKSc@y@e@aAg@aA]o@g@XiGnD[PQNONKNOR]b@g@p@Y^QTONQPUPOJUNWJWH[FSBWBU?S@QASAy@Gc@GICKAQCuFy@yCa@_@Ek@G[Ca@C]AcAEuAEKAW?c@Ai@@[B_@Dm@Hs@N]La@PQHIB_@R]Ta@VSPg@d@k@j@_@b@QPON_BsCIQeAmBQ[IKCGGGGG\\a@T[P[BELWN_@Ng@ZkANs@HYVs@`@cATi@FM\\u@DM|@oBb@}@\\q@DGd@y@f@u@\\i@V]x@oAd@o@FKz@iABEBE?AFKFOFUDM@EaA]sEeB_A_@oDsAUI_C{@eA_@SIuCgAcA_@eEqAy@Wg@Qy@Su@Sy@Sk@Oi@OYKSG]OAAYO_@UIGQK][[[gAiAy@}@AA]_@k@m@OOEEKI_@YiCiB}@o@?ABI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.054396,
+                        "lng" : -74.98380899999999
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.083067,
+                              "lng" : -74.97468599999999
+                           },
+                           "name" : "Knights Rd & Lancelot Pl - MBFS"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:08am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415117280
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 40.054396,
+                              "lng" : -74.98380899999999
+                           },
+                           "name" : "Grant Av & James St - FS"
+                        },
+                        "departure_time" : {
+                           "text" : "10:56am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415116560
+                        },
+                        "headsign" : "Bustleton - County Line",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "name" : "Bustleton-CntyLn/FranMillMal to FTC",
+                           "short_name" : "84",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 24
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "161 ft",
+                        "value" : 49
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 40.0827646,
+                        "lng" : -74.975101
+                     },
+                     "html_instructions" : "Walk to 11080 Knights Road, Philadelphia, PA 19154, USA",
+                     "polyline" : {
+                        "points" : "evssFxnrhMGNf@\\BJBDDDHFDB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.083067,
+                        "lng" : -74.97468599999999
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "85 ft",
+                              "value" : 26
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 19
+                           },
+                           "end_location" : {
+                              "lat" : 40.0829068,
+                              "lng" : -74.974924
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eKnights Rd\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "evssFxnrhMGNf@\\"
+                           },
+                           "start_location" : {
+                              "lat" : 40.083067,
+                              "lng" : -74.97468599999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "75 ft",
+                              "value" : 23
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 20
+                           },
+                           "end_location" : {
+                              "lat" : 40.0827646,
+                              "lng" : -74.975101
+                           },
+                           "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eKnights Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "maneuver" : "turn-slight-right",
+                           "polyline" : {
+                              "points" : "eussFfprhMBJBDDDHFDB"
+                           },
+                           "start_location" : {
+                              "lat" : 40.0829068,
+                              "lng" : -74.974924
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s_qrF|m|jM@UOKID{AsAiBaAO]Cm@\\iEXkDMC@QRBzHNhHHxCXvEt@pDX`G~@`AHlG@hC@zDh@zCr@|JxCbJvCtGpCrMnH`HjEdFrCnB`BjAlApBfDlD|FhBfB~@h@~EbApEx@z@Zr@Jz@Az@I\\QtCw@tIwBfCa@fCCdBR`Bf@xLzCfGlAjFx@z@PdCQxEg@~By@pCsA`GaCtDmAnF}@zASrDg@`ABhDZnG`B|A~@r@hAJ^b@Iv@KzDk@`Kk@zJGhGX|FJ_@wBQy@VOa@uAeHiW{HaYuHqXiE}LuE_KiD}F_BaCqF}G{D_EqHiGeLwGwXuNsTqLuC_BwK{F_GwDmFmE_C{BwE_GyD_GeH_NsMgWwBsEgImOgNcXkCgGaDkJmN}c@wNyd@_h@maBuWsy@uBkFyD}HoFeIeDaEkFeHsCiFkDsHiD{JcCeK_AcFaAaIq@oI}@mKyAmJsBwIcDeK}DyIqb@}q@io@scA_k@c}@qQaZgEsGyF{GsEmFoAwBuB}EmAiEsAeI_@kHOqHEoBOgFW{C[qCgAsF{DeMeBaDaC_DwDgEcC}BsBcAmDs@{HcAsM}AsEk@i@WcAgBu@_CMiBDkE|@iNWEM~Aw@hKq@pCoA~AsAp@eSfCiIRgBJ}A^wBdAyCdCqBjCiBrDoAzDeAfH}@~Gm@vCsEdKaDnGcBrBqA|@gBj@wC^iA?wA[y@_@sA{@oAeAyCwDyAyBuD_GyBoDsBgEiCeEgCsE}CsGyUea@oMwToG_LaEwJwT_j@_Oy^aBkEkA}DkBaHyIy[uEgQaGySsDiN_EcOoKq`@}FkToBuHe@qCk@wH?kUj@sVTaFhCma@|Eyt@xFq{@zA{UDeGWgDgAkFmBaEqEyF}BgCeAiA{DsFcDwGYw@iBgGyCaQ_Fs[iKsp@yEe[aDsSuCkPqBoIcCwIgBoFmIaTsHiRuLoZoIiSmDuHiVae@o]cp@aGcLsGwLuFcMyEyNeGoSeEqN}DgKgIoPeZkl@iMuVoFgNgF{OiFeLcE_G_D_DwDqD[YDIF}B@Hi@NgAhAaG`HqR~TaBlBiBvBo@oAq@qAuAkCqB}DiBiDy@_BmAcC]o@g@XeH`Ea@^aBxBmAvAsAx@_BXoAAuP{BeI_@iCHaDx@yAv@iCzBq@t@ON_BsCoA_C[g@KOGG\\a@f@w@P]jAgExA{DhBaElBqDdGyIRc@Lc@_Ac@yMcFoJmDuOwEcCs@yAw@uAkAaDiDmAmAgFuDBIGNj@h@XV"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      },
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.0831051,
+               "lng" : -74.97468599999999
+            },
+            "southwest" : {
+               "lat" : 39.9053741,
+               "lng" : -75.353431
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "11:33am",
+                  "time_zone" : "America/New_York",
+                  "value" : 1415118831
+               },
+               "departure_time" : {
+                  "text" : "9:11am",
+                  "time_zone" : "America/New_York",
+                  "value" : 1415110317
+               },
+               "distance" : {
+                  "text" : "31.6 mi",
+                  "value" : 50896
+               },
+               "duration" : {
+                  "text" : "2 hours 22 mins",
+                  "value" : 8514
+               },
+               "end_address" : "11080 Knights Road, Philadelphia, PA 19154, USA",
+               "end_location" : {
+                  "lat" : 40.0827646,
+                  "lng" : -74.975101
+               },
+               "start_address" : "500 College Avenue, Swarthmore, PA 19081, USA",
+               "start_location" : {
+                  "lat" : 39.9053772,
+                  "lng" : -75.353431
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 395
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 255
+                     },
+                     "end_location" : {
+                        "lat" : 39.905972,
+                        "lng" : -75.350127
+                     },
+                     "html_instructions" : "Walk to Chester Rd & College Av",
+                     "polyline" : {
+                        "points" : "s_qrF|m|jM@A?A?A@??A?A?A?A?A?AA??A?AAA?AAAAAA??AA?A??AA?A?A@A?A??@A??@A?o@q@KK_@Ue@[s@[ICEECGCECECICKAK?G@MFw@TqCXkDDM|@@?S"
+                     },
+                     "start_location" : {
+                        "lat" : 39.9053772,
+                        "lng" : -75.353431
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "89 ft",
+                              "value" : 27
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 19
+                           },
+                           "end_location" : {
+                              "lat" : 39.9054989,
+                              "lng" : -75.353292
+                           },
+                           "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eCollege Ave\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "s_qrF|m|jM@A?A?A@??A?A?A?A?A?AA??A?AAA?AAAAAA??AA?A??AA?A?A@A?A??@A??@A?"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9053772,
+                              "lng" : -75.353431
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.2 mi",
+                              "value" : 334
+                           },
+                           "duration" : {
+                              "text" : "4 mins",
+                              "value" : 214
+                           },
+                           "end_location" : {
+                              "lat" : 39.9062786,
+                              "lng" : -75.3502197
+                           },
+                           "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eCollege Ave\u003c/b\u003e",
+                           "maneuver" : "turn-slight-right",
+                           "polyline" : {
+                              "points" : "k`qrF`m|jMo@q@KK_@Ue@[s@[ICEECGCECECICKAK?G@MFw@TqCXkDDM"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9054989,
+                              "lng" : -75.353292
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "112 ft",
+                              "value" : 34
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 22
+                           },
+                           "end_location" : {
+                              "lat" : 39.905972,
+                              "lng" : -75.350127
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Chester Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "geqrFzy{jM|@@?S"
+                           },
+                           "start_location" : {
+                              "lat" : 39.9062786,
+                              "lng" : -75.3502197
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.7 mi",
+                        "value" : 12331
+                     },
+                     "duration" : {
+                        "text" : "35 mins",
+                        "value" : 2100
+                     },
+                     "end_location" : {
+                        "lat" : 39.962098,
+                        "lng" : -75.259406
+                     },
+                     "html_instructions" : "Bus towards 69th Street Trans. Ctr.",
+                     "polyline" : {
+                        "points" : "icqrFhy{jM?P{@CuF}@cAMw@McBSyCc@}Ce@_AMGAECECOIWZ_D~De@j@YMoD{Aw@]kAk@IEGd@TpE@TEr@?P?HCHAHEHADEFCDE@G@G?KCMCEAKMEEKKGqB?CAg@A_@@U?YCWCQEQKOIEWI}@EQ@KWGOAKAK@KBIDIHKJI^BB@JBTDTFf@Pb@Pn@NHDJFHD?GEoACe@QiEAUMYEaAE_AGkA?CKkBGsAKiBG{@?ACYCYI_AMeAs@yFCOCUe@mDUaB_@aCQmACSg@yCYcBOcAEWOaAOy@m@_DWmAYwAoAeFa@cBGSEOk@_Ca@uAY_Ae@{A}@qCu@mCSk@oAiESo@Uy@m@uBSy@u@wCaA{DWgAWeAS{@g@qB]wAeAkEEMw@aD_@_BAC[qAAAc@mBCKa@_Be@kBq@uCU{@S_Aa@gBKi@YuA}@iEI[c@uBqAgGQw@u@iDCM@WIg@G[Qs@EQg@aCg@}BEUG_@EYE[IWCMQs@a@mBi@iCKc@Ia@EQQQKg@UgAG_@Mm@}@_EUeAaAmEa@sBI[q@_DG[AA[yAMk@a@gBS}@EOs@uCg@yBMi@YiAq@}CGWEUEQg@sBm@iC[wASm@EMYy@cAsCK_@Oc@kAeDaAoCIUcAyCM]?AGQMY[_AQe@uBaG}AkEa@iA[_AM]kCqHKYi@{AGQGMKc@Qm@Ke@GQWoAIc@EYUmAG_@COW}AG_@Qa@Sm@KYM[[q@KSQ[_@m@a@k@Q]QYQ_@MYQa@i@mAISGOCMESMkAEUCWQmAKy@Im@S_BEUEY]qCg@_EAAaA_ICYUkB_@qCGe@QmACS]eCOmAKaAASg@uEMqAOwAIq@E_@YkCSwBGg@ASi@iFUmBQcBk@HwCb@mDd@wCd@g@HwDj@oBZk@HkARa@F}BZ}@N{BZw@JM@M?M?M?G@ODoANsAP_CVE?OBqBTqCXoEHESIQCGw@oBIUKYI]g@uAOe@]eACGGSM]cA}Co@cBi@yAcAOa@Gc@@k@Dm@DUBg@NeAj@[Rc@VKB]LE@E@E?E?EAIAs@O_IgBo@OeB]SGiA_@_@Iu@Q}A[yBc@a@Gw@IWCO?CAQ@E@CFa@e@}@mA{@sAm@}@MWCCCA?AC?E@IBMDEBm@ZOsAPiDHyAAe@IYOK@C"
+                     },
+                     "start_location" : {
+                        "lat" : 39.905972,
+                        "lng" : -75.350127
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 39.962098,
+                              "lng" : -75.259406
+                           },
+                           "name" : "69th Street Transportation Center"
+                        },
+                        "arrival_time" : {
+                           "text" : "9:51am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415112660
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 39.905972,
+                              "lng" : -75.350127
+                           },
+                           "name" : "Chester Rd & College Av"
+                        },
+                        "departure_time" : {
+                           "text" : "9:16am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415110560
+                        },
+                        "headsign" : "69th Street Trans. Ctr.",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "name" : "Chester TC to 69th St TC",
+                           "short_name" : "109",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 46
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "249 ft",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 39.96232000000001,
+                        "lng" : -75.258555
+                     },
+                     "html_instructions" : "Walk to 69th Street Transportation Center",
+                     "polyline" : {
+                        "points" : "cb|rFhbjjMk@iD"
+                     },
+                     "start_location" : {
+                        "lat" : 39.962098,
+                        "lng" : -75.259406
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "249 ft",
+                              "value" : 76
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 76
+                           },
+                           "end_location" : {
+                              "lat" : 39.96232000000001,
+                              "lng" : -75.258555
+                           },
+                           "polyline" : {
+                              "points" : "cb|rFhbjjMk@iD"
+                           },
+                           "start_location" : {
+                              "lat" : 39.962098,
+                              "lng" : -75.259406
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "12.9 mi",
+                        "value" : 20693
+                     },
+                     "duration" : {
+                        "text" : "39 mins",
+                        "value" : 2340
+                     },
+                     "end_location" : {
+                        "lat" : 40.023427,
+                        "lng" : -75.077185
+                     },
+                     "html_instructions" : "Subway towards Frankford Trans Ctr",
+                     "polyline" : {
+                        "points" : "oc|rF~|ijMG[C_@EWIWYg@mCeE_DwGu@cBOm@E[C_@?wBNyEJmA@O^kELsAHc@Le@t@uA`AuATi@J]b@cCTuABG@E@Q@QDi@JeBFu@BU?AFkAl@oIPeCLaCNaCn@iK@ANmCNwBNaCn@mKr@_Kl@uK@ABc@ZeFNeC?IBMJcB@UFaALkBN{BNeC\\yEn@iKXcEZsEL}BJcBTwDRoDjAgQf@qH`@aHJ}A?C@YDqA@yAEiQ?]FUHQFMp@}Az@gD\\aFBe@J_BJ_BDg@FcADk@LeCDo@LcBDs@LcBH{ADq@TmDBk@NqBB_@JiBHoAL{BJ{A?K@KPqCFu@HoABc@F}@Du@Ba@L{BDi@NiCNwBDu@`@eGBo@Fs@?ANeCJwABc@PiCJeBB]NsBHwAB[B]D{@BYBk@Fy@Dm@PsCDq@Bi@@G?E@ODs@Dk@TmDDm@?G@O@ILsBLmBVcD@S?C@C?K@I@G?KHwAHuAFcADm@Fy@TqDLeBJaBBg@J}AJaBZyEN}BFiAFcALqBZyEJgBXkELiBVmEJoB\\mFHkAVaELuB@ArAqRNkCJuAX{EFgAZwF@Af@yHReDPsCd@{HViELqBh@cI@]HcADo@LyBBU?Aj@kId@{HJ{AFcALoBRwB\\cDHmAQiAUm@i@}@{@a@aCSaJEqF?}DA}Dc@yI[cJcA}Eo@C?kE}AeEgBsD}BaCeBuCqC[Ys@QIA_AUwBe@{@QeB_@o@OoAUy@Qe@KmCm@A?eB]gBa@sAYy@QqFmA{Dy@OCe@K_E{@WGQEGAs@Oq@Mk@Ow@OoDe@g@G_@E{BYiH_AA?kBU}Di@yFw@e@EMCkFq@i@Ge@IcHaAIAKCcBSyCYIAOEKCGCOQOSAE]w@c@_A]y@[o@]s@_@}@_@}@}B_F}@qBcA{Bo@wAo@uAq@_Ba@y@Sc@EMw@iBWe@GMEKKYA?GOISa@{@a@y@eA_Cw@cB_AiBg@}@ISKU_AsBy@kBc@{@_@{@eCsFWk@ISO[Yo@}EuKEIIQqAuCq@wAq@uA_AqBMYMWq@}A}@uBw@iBgAaC}@kB{@mB{@kB_AuBaAwBw@gB_CiFsBoEaAyBo@uAMYKSy@eBm@qAQ_@[s@{@mB_@}@KSYo@e@gAqAuCyBaFyCsGwB{Eu@}AeDqHsA{CKSm@sAqBgEy@mBw@eBMYiAiCy@gBO]Uc@QYGGGKIISSSOCCe@WQKsCeBA?UMk@[[OeAm@[Qa@Ua@[i@g@QQiEuDaA}@qBgBaA_AyDkDu@q@iB{AIGIIc@a@mE_EMMkC_CmBcB}BwBkBaBiBaBoBgBeAcASSSWGMa@o@k@aAuEgE"
+                     },
+                     "start_location" : {
+                        "lat" : 39.96232000000001,
+                        "lng" : -75.258555
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.023427,
+                              "lng" : -75.077185
+                           },
+                           "name" : "Frankford Transportation Center - MFL"
+                        },
+                        "arrival_time" : {
+                           "text" : "10:37am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415115420
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 39.96232000000001,
+                              "lng" : -75.258555
+                           },
+                           "name" : "69th Street Transportation Center"
+                        },
+                        "departure_time" : {
+                           "text" : "9:58am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415113080
+                        },
+                        "headsign" : "Frankford Trans Ctr",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "color" : "#0000df",
+                           "name" : "Frankford TC to 69th St TC",
+                           "short_name" : "MFL",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/metro.png",
+                              "name" : "Subway",
+                              "type" : "SUBWAY"
+                           }
+                        },
+                        "num_stops" : 27
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 40.02362300000001,
+                        "lng" : -75.076971
+                     },
+                     "html_instructions" : "Walk to Frankford Transportation Center",
+                     "polyline" : {
+                        "points" : "mahsFjofiMe@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.023427,
+                        "lng" : -75.077185
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "92 ft",
+                              "value" : 28
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 28
+                           },
+                           "end_location" : {
+                              "lat" : 40.02362300000001,
+                              "lng" : -75.076971
+                           },
+                           "polyline" : {
+                              "points" : "mahsFjofiMe@i@"
+                           },
+                           "start_location" : {
+                              "lat" : 40.023427,
+                              "lng" : -75.077185
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "10.8 mi",
+                        "value" : 17324
+                     },
+                     "duration" : {
+                        "text" : "43 mins",
+                        "value" : 2580
+                     },
+                     "end_location" : {
+                        "lat" : 40.083067,
+                        "lng" : -74.97468599999999
+                     },
+                     "html_instructions" : "Bus towards Franklin Mills Mall",
+                     "polyline" : {
+                        "points" : "sbhsF`nfiMr@SF?B?FC@AfCqCHIdAgA`AiAr@w@JIX[d@a@VSZUHILKNMp@i@v@m@HIh@c@p@g@JIf@a@DCFGFI`@c@V[RSDGJILGDATGt@UJCl@Qt@St@ShBg@LEdBg@xAa@JCzA_@b@MvA_@n@Qd@OJC|EsAJEfFuAd@MTGJCZMdA[hA[XINCPERBd@APAJAj@KFAb@K\\If@Mj@MRGXGPEPCAWAUE}@Cs@w@uKAUG[Ok@]kB_@aBYqAES}@aEg@}BG[EOGUISGQO[_B_D?Ag@aAIOaCuEyAsCMUIOEMMY{@eBO]cCcFOa@k@sAKS{DwJGMOa@KY{AwEa@iAOa@gAsCeB{DIS]aA?QWmA@KFQDMDKZm@f@w@JODGBEHOFQFMFSDOBOBQBW@M?U@UAS?SCUCMCMCMI[O]GMGMOUKMKKMEMCMAM@MDKFKHw@n@m@h@QLg@^IBGBG@E?I?GAGCGEECGEAC]o@GK[s@IQGOO[ISI[k@qBIUe@sAEKIUSg@m@yA{@yBAEEMGSCOCQ?AAOAWAW?m@?cB?]?_@C[E]EOw@cC]_AGUi@_BUo@q@mBc@qA]_AIQQQSSKGCCIGUIKEIAGCQGc@IMCSCSGQIOMQOMMMSMUIQIUISUq@]eA_@iAM[Ws@w@}BMa@GSs@oBkA_DGSu@oBcAoCGSYHIHgA~@u@l@i@b@q@f@UNIFEDSNg@\\IFq@f@{@l@_@XaAp@IFgBpAwA`AKHeAx@c@ZQa@qB_F]y@w@kBq@aBISu@eBq@aBm@wAIS_A{Bw@kBu@gBISa@aA]w@[u@Ys@]w@Uk@IS_@_A[q@[w@Q_@ISe@kA_@{@[w@Q_@hBcA\\S|@i@`Ai@TMNIJEHENGNMHIJKXW^]l@m@h@g@^c@RUV[JMJIPOVU\\]j@k@@AbA}@Sa@Yw@EKIOcA{Bq@sAUe@Qa@k@kAGOUe@{ByE_BoDGKc@_Aq@{AoAmCy@gBq@}AgA_CyDiIQc@_@w@k@sAKWe@mAOa@GQeAwCoB{FcB}E[_Ag@qAe@oAsB{EUk@AAMYISe@aAGOk@cAYg@y@}A[o@Wk@cA_C}AsDcFcLcA}BKUYm@s@uAoAgCuAqC}A_DGM[q@O[{@iBQ]c@}@s@}AgA{Ba@y@ISm@mA{@cBs@uAq@qA?OIUQc@]q@KUYg@iAsBKGKSUa@c@{@_@u@m@iAIOs@sAoDeHsB}DYk@?AcAmBKQi@gA_AiBi@eAEIwBi@_@ZWRIHo@f@o@h@MHKFMDKBUDSHMHMJML]d@a@d@STGFMPo@r@s@z@QP_AhA_BjBqAzASRcDxDi@l@oC`Dg@l@e@j@OPqAzAiBvBo@oAIMg@cAaAkBS_@k@iAIOKSo@oAUc@e@}@[m@QYAEGKKSc@y@e@aAg@aA]o@g@XiGnD[PQNONKNOR]b@g@p@Y^QTONQPUPOJUNWJWH[FSBWBU?S@QASAy@Gc@GICKAQCuFy@yCa@_@Ek@G[Ca@C]AcAEuAEKAW?c@Ai@@[B_@Dm@Hs@N]La@PQHIB_@R]Ta@VSPg@d@k@j@_@b@QPON_BsCIQeAmBQ[IKCGGGGG\\a@T[P[BELWN_@Ng@ZkANs@HYVs@`@cATi@FM\\u@DM|@oBb@}@\\q@DGd@y@f@u@\\i@V]x@oAd@o@FKz@iABEBE?AFKFOFUDM@EaA]sEeB_A_@oDsAUI_C{@eA_@SIuCgAcA_@eEqAy@Wg@Qy@Su@Sy@Sk@Oi@OYKSG]OAAYO_@UIGQK][[[gAiAy@}@AA]_@k@m@OOEEKI_@YiCiB}@o@?ABI"
+                     },
+                     "start_location" : {
+                        "lat" : 40.02362300000001,
+                        "lng" : -75.076971
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 40.083067,
+                              "lng" : -74.97468599999999
+                           },
+                           "name" : "Knights Rd & Lancelot Pl - MBFS"
+                        },
+                        "arrival_time" : {
+                           "text" : "11:33am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415118780
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 40.02362300000001,
+                              "lng" : -75.076971
+                           },
+                           "name" : "Frankford Transportation Center"
+                        },
+                        "departure_time" : {
+                           "text" : "10:50am",
+                           "time_zone" : "America/New_York",
+                           "value" : 1415116200
+                        },
+                        "headsign" : "Franklin Mills Mall",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "SEPTA",
+                                 "url" : "http://www.septa.org/"
+                              }
+                           ],
+                           "name" : "Bustleton-CntyLn/FranMillMal to FTC",
+                           "short_name" : "84",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 80
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "161 ft",
+                        "value" : 49
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 40.0827646,
+                        "lng" : -74.975101
+                     },
+                     "html_instructions" : "Walk to 11080 Knights Road, Philadelphia, PA 19154, USA",
+                     "polyline" : {
+                        "points" : "evssFxnrhMGNf@\\BJBDDDHFDB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.083067,
+                        "lng" : -74.97468599999999
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "85 ft",
+                              "value" : 26
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 19
+                           },
+                           "end_location" : {
+                              "lat" : 40.0829068,
+                              "lng" : -74.974924
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eKnights Rd\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "evssFxnrhMGNf@\\"
+                           },
+                           "start_location" : {
+                              "lat" : 40.083067,
+                              "lng" : -74.97468599999999
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "75 ft",
+                              "value" : 23
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 20
+                           },
+                           "end_location" : {
+                              "lat" : 40.0827646,
+                              "lng" : -74.975101
+                           },
+                           "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eKnights Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "maneuver" : "turn-slight-right",
+                           "polyline" : {
+                              "points" : "eussFfprhMBJBDDDHFDB"
+                           },
+                           "start_location" : {
+                              "lat" : 40.0829068,
+                              "lng" : -74.974924
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s_qrF|m|jM@UOKID{AsAiBaAO]Cm@|@cK|@@?S?P{@CyHkA{Ca@_KyAKGOIWZeEjFiEiBcCiAIEGd@VfFEdAKf@QTi@Ec@a@QwGQa@a@OoACSg@@m@NUj@Ez@RdCx@TLEwAUoFOo@SqEg@eJ{A{McEuXsAsHcDoNoGuTmC_JyDcOmGoWoD}NkF_V}D_RSiBaCqLgCiL]y@]gBcDaOsD{PwEgSaBeHoAmEiI{UaQuf@kBaJ[mBYaAiAuCcD{FmAsC]cCiBoN_Em[eC}TgCiVQcBk@HeIhAgNvBwOzBq@@sH~@yGr@oEHESMYwA}DyAiEiCsHi@yAcAOeAEwC^qCzAo@PiASiN}C}FwAkFy@k@@CFa@e@yBaDcA{ASBSHm@ZOsAZcGK_AMOs@eEIw@c@_AmCeE_DwGeAqCI{@NqIz@}JViAvBkD`@gAx@yEHq@\\{EvCsd@zG}fAhKaaBHiEEgRPg@x@kBz@gD\\aFNeCPgC`@eHj@wIhAwQnC_d@zCwe@bEep@|F__AfIupApG{cAhAyMg@wBi@}@{@a@aCSaJEoLA}Dc@yI[aQsBoE}AeEgBsD}BwGwF[Ys@QiAWsDw@_HwAcWsFwOeDeIsAmNgBoZ{DwRgCs@m@aBwDyJmT}GiOmLwVsXkm@q\\au@eZop@uOi]iGuMy@y@oEmCeGkDkVsTiO}MaM_L}EwEi@}@k@aAuEgEe@i@r@SJ?zCaDfEsElEuD~E{DtA}Ad@[hJiCxN}D`Q{ExDeA|AEhFiAj@MPCAWGsA{@iMw@iE}BiK}@_EaCaFkHqN}EaKcGaO_CaH_F{Lg@uAW_BTw@rBsDTeAFqAIkAa@uAk@_Au@Ws@X_DfC_@Ha@Km@}@u@aBoCiI_CaGUcAEqGIy@}@sCeBeF}BqGu@q@aCs@iAc@{@gAwCmIoIwUGSYHqAhAgDhCcFrDkGlEqAbAc@ZQa@oCyGiBmE_DsH}GgPaEuJkBsEQ_@hBcAzA}@rBgAr@e@hFmFpEgE_Raa@{Om]_KkYwG{OgCyEuEoKmIeRwHoOaH{NuC_GeBgDIe@uAsCwBqDmNoXyBiEiBoD}Bs@qB`BwA`AcA\\{AdB_IfJaPdR{DrEy@}AiDyGqDcH}A{CeAqBqHhEiA`AoBhCiAhAuAp@}ANsBIgP{B}HYsCTeCx@iBdAgCfCa@`@iBeDeB}COOr@}@r@yAdAaEvAoDdCqFpBiD`FiHVs@FSuGcCeKyDsHqC}NgEuBs@eAo@yG{GaAy@gEyCBKGNf@\\FPTP"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
