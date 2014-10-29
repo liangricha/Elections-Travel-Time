@@ -11,7 +11,7 @@ $address_file = file_get_contents($file_name);
 $addresses = preg_split('/$\R?^/m', $address_file);
 
 date_default_timezone_set('America/New_York');
-// We choose 9:00am to give us some time to ger to SEPTA.
+// We choose 8:55am to give us some time to ger to SEPTA.
 $unix_timestamp = mktime(8, 55, 0, 11, 4, 2014);
 
 $travel_info = array();
